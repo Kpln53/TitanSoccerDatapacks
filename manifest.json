@@ -1,6 +1,7 @@
 {
   "manifestVersion": "1.0.3",
   "gameVersion": "v1.0",
+  "acceptedGameVersions": "v1.0,v1.0.1,1.0,1.0.1",
   "dataPacks": [
     {
       "id": "titan_datapack_v1",
