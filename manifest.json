@@ -1,7 +1,7 @@
 {
   "manifestVersion": "1.0.5",
-  "gameVersion": "v1.2",
-  "acceptedGameVersions": "v1.1.2,v1.2",
+  "gameVersion": "v1.3",
+  "acceptedGameVersions": "v1.1.2,v1.2,v1.3",
   "testGameVersions": "v1.1 Test 1,v1.3 Test 1,v1.3 Test 2",
   "dataPacks": [
     {
