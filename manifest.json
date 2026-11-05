@@ -1,25 +1,9 @@
 {
   "manifestVersion": "1.0.5",
   "gameVersion": "v1.3.1",
-  "acceptedGameVersions": "v1.1.2,v1.2,v1.3,v1.3.1",
-  "testGameVersions": "v1.1 Test 1,v1.3 Test 1,v1.3 Test 2",
+  "acceptedGameVersions": "v1.3,v1.3.1",
+  "testGameVersions": "",
   "dataPacks": [
-    {
-      "id": "titan_datapack_v1",
-      "name": "Titan Data Pack",
-      "version": "1.0.4",
-      "author": "TitanSoccer",
-      "description": "Topluluk veri paketi. Ligler, takımlar, oyuncular ve logolar.",
-      "downloadUrl": "https://raw.githubusercontent.com/Kpln53/TitanSoccerDatapacks/main/titan_datapack_v1.0.4.zip",
-      "logoUrl": "",
-      "leagueCount": 27,
-      "teamCount": 490,
-      "playerCount": 16521,
-      "fileSize": 16771405,
-      "isDownloaded": false
-    }
-  ],
-  "testDataPacks": [
     {
       "id": "titan_datapack_v1",
       "name": "Titan Data Pack",
@@ -32,8 +16,8 @@
       "teamCount": 598,
       "playerCount": 16858,
       "fileSize": 20479121,
-      "isDownloaded": false,
-      "gameVersions": "v1.3,v1.3.1,v1.3 Test 2"
+      "isDownloaded": false
     }
-  ]
+  ],
+  "testDataPacks": []
 }
