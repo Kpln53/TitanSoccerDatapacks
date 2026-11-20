@@ -2,7 +2,7 @@
   "manifestVersion": "1.0.5",
   "gameVersion": "v1.4",
   "acceptedGameVersions": "v1.4",
-  "testGameVersions": "",
+  "testGameVersions": "v1.5 Test 3",
   "dataPacks": [
     {
       "id": "titan_datapack_v1",
