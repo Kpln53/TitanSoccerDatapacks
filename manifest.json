@@ -7,15 +7,15 @@
     {
       "id": "titan_datapack_v1",
       "name": "Titan Data Pack",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "author": "TitanSoccer",
       "description": "Topluluk veri paketi. Ligler, takımlar, oyuncular ve logolar.",
-      "downloadUrl": "https://raw.githubusercontent.com/Kpln53/TitanSoccerDatapacks/main/titan_datapack_1.0.8.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/Kpln53/TitanSoccerDatapacks/main/titan_datapack_1.0.9.zip",
       "logoUrl": "",
       "leagueCount": 34,
       "teamCount": 598,
       "playerCount": 16858,
-      "fileSize": 19729527,
+      "fileSize": 19729541,
       "isDownloaded": false
     }
   ],
